@@ -9,7 +9,7 @@ const router = createBrowserRouter([
 {
     element: <Layout />,
     children: [{
-        path: "/",
+        path: "/<Projeto_Criptomoeda>",
         element: <Home />
     }, {
         path: "/detail/:cripto",
