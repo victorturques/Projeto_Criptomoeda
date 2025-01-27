@@ -24,30 +24,9 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 A aplicação consome uma API de criptomoedas que fornece dados em tempo real sobre preços e informações de mercado. O método utilizado para consumir essa API é o **fetch**, que permite realizar requisições HTTP de forma simples e eficiente. A API retorna dados em formato JSON, que são processados e exibidos na interface do usuário.
 
-## 💻 Instalação
+## 🌍 Acesse o Projeto
 
-Para instalar e executar o projeto, siga os passos abaixo:
+Clique no link abaixo para acessar o projeto diretamente:
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seuusuario/Projeto-Criptomoeda.git
-   ```
-
-2. Navegue até o diretório do projeto:
-   ```bash
-   cd Projeto-Criptomoeda
-   ```
-
-3. Instale as dependências:
-   ```bash
-   npm install
-   ```
-
-## Uso
-
-Para iniciar a aplicação, execute o seguinte comando:
-```bash
-npm run dev
-```
-A aplicação estará disponível em `http://localhost:3000`.
+[**Abrir o Projeto Criptomoeda**](https://victorturques.github.io/Projeto_Criptomoeda/)
 
